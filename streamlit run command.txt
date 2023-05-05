@@ -1,0 +1,2 @@
+
+streamlit run "C:\Users\ASUS\Desktop\MachineLearning Folder\multiple disease pred.py"
